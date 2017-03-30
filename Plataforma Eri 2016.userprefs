@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControleDeMovimento.cs">
+    <Files>
+      <File FileName="..\..\..\Google Drive\projetos Unity\Projeto Hospital 3.0\Assets\Scripts\movimentacao2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControleDeMovimento.cs" Line="43" Column="1" />
+      <File FileName="Assets\Scripts\ScriptDeStrela.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PontuacaoGenerator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
